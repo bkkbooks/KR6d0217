@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0217_000-X.yaml, hash: 'sha256:4ea6a2a48d15c749657f958453574948c071a9f38787d0826b820d4b65be058f'}
+  - {seq: 0, filename: KR6d0217_000-X.yaml, hash: 'sha256:c7e8eda519d432a6052ebc7be8a0fca54483cb1c748801ffb5ec25e19f93899e'}
   - {seq: 1, filename: KR6d0217_001-X.yaml, hash: 'sha256:98f84e17d56af790406f87e54829ac752940c4d5a27c0200886ec41f2cb3ed0c'}
   - {seq: 2, filename: KR6d0217_002-X.yaml, hash: 'sha256:6fe06e5ff134c7d0dc85a02e6305be53a0426581d541c7600ded3862bea10475'}
   - {seq: 3, filename: KR6d0217_003-X.yaml, hash: 'sha256:ff7cdc681d0a520b8586edc2213c0b47806d5f2540657fdd309acf7a23763f11'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0217_000-X.markers.yaml, hash: 'sha256:0c169d6c703d1beb25779742291380d83cdeea67b170c502e094de9fbf3573d1'}
+  - {seq: 0, role: markers, filename: assets/KR6d0217_000-X.markers.yaml, hash: 'sha256:4d81479afae302567a550d5866ac07468175f8fc5e1974034dbac8a1697f6736'}
   - {seq: 1, role: markers, filename: assets/KR6d0217_001-X.markers.yaml, hash: 'sha256:0e01a3b57ef2e181b88260c2e8e147d9a94f41f5851d0ea0fcdcd2921545854e'}
   - {seq: 2, role: markers, filename: assets/KR6d0217_002-X.markers.yaml, hash: 'sha256:3e157b8b913467df74b9062e7458e11209702e46f601720cc72c118a63ea7a4a'}
   - {seq: 3, role: markers, filename: assets/KR6d0217_003-X.markers.yaml, hash: 'sha256:a7b6f805bf52c9e97ebfaea454d9d88396b48930f466b450510e1a9f31804721'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0217_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 939-A 重刻五百問論序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0217_X_000-mulu-2
     span:
-    - front
+    - body
     - 1093
     - 1093
   label: 凡例
@@ -369,4 +369,4 @@ table_of_contents:
   label: No. 939-C 䟦
   type: mulu
   level: 1
-hash: sha256:50fda727aad1b8fc7c6de0c983fcc0410449ba156b43afa13ae96ac8ac618003
+hash: sha256:d3cb0830f2301f4f1ee44b9b72b98e0659919c96c6eb853b7d47aa14154bf102
